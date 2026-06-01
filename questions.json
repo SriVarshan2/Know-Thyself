@@ -1,0 +1,137 @@
+[
+  {
+    "id": "s01",
+    "top": "Science",
+    "dif": "Easy",
+    "txt": "What is the chemical symbol for gold?",
+    "opt": ["Go", "Gd", "Au", "Ag"],
+    "ans": 2,
+    "why": "Gold's symbol Au comes from the Latin word 'aurum', meaning gold."
+  },
+  {
+    "id": "s02",
+    "top": "Science",
+    "dif": "Easy",
+    "txt": "How many bones are in the adult human body?",
+    "opt": ["196", "206", "216", "226"],
+    "ans": 1,
+    "why": "An adult human body has exactly 206 bones; babies are born with around 270 that fuse over time."
+  },
+  {
+    "id": "s03",
+    "top": "Science",
+    "dif": "Medium",
+    "txt": "Which planet has the most moons in our solar system?",
+    "opt": ["Jupiter", "Saturn", "Uranus", "Neptune"],
+    "ans": 1,
+    "why": "Saturn leads with 146 confirmed moons as of 2024, surpassing Jupiter's 95."
+  },
+  {
+    "id": "s04",
+    "top": "Science",
+    "dif": "Medium",
+    "txt": "What is the approximate speed of light in a vacuum?",
+    "opt": ["300,000 km/s", "150,000 km/s", "450,000 km/s", "3,000 km/s"],
+    "ans": 0,
+    "why": "Light travels at approximately 299,792 km/s in a vacuum, commonly rounded to 300,000 km/s."
+  },
+  {
+    "id": "s05",
+    "top": "Science",
+    "dif": "Hard",
+    "txt": "Which element has the highest melting point of all known elements?",
+    "opt": ["Osmium", "Iridium", "Tungsten", "Carbon"],
+    "ans": 2,
+    "why": "Tungsten (W) has the highest melting point of any pure element at 3,422 degrees Celsius."
+  },
+  {
+    "id": "h01",
+    "top": "History",
+    "dif": "Easy",
+    "txt": "In which year did World War II end?",
+    "opt": ["1943", "1944", "1945", "1946"],
+    "ans": 2,
+    "why": "World War II ended in 1945: Germany surrendered in May and Japan in September."
+  },
+  {
+    "id": "h02",
+    "top": "History",
+    "dif": "Easy",
+    "txt": "Who was the first President of the United States?",
+    "opt": ["John Adams", "Thomas Jefferson", "Benjamin Franklin", "George Washington"],
+    "ans": 3,
+    "why": "George Washington was inaugurated as the first U.S. President on April 30, 1789."
+  },
+  {
+    "id": "h03",
+    "top": "History",
+    "dif": "Medium",
+    "txt": "The Berlin Wall fell in which year?",
+    "opt": ["1987", "1988", "1989", "1991"],
+    "ans": 2,
+    "why": "The Berlin Wall fell on November 9, 1989, after the GDR announced open borders."
+  },
+  {
+    "id": "h04",
+    "top": "History",
+    "dif": "Medium",
+    "txt": "Which ancient wonder was located in Alexandria, Egypt?",
+    "opt": ["The Colossus of Rhodes", "The Lighthouse of Alexandria", "The Hanging Gardens", "The Temple of Artemis"],
+    "ans": 1,
+    "why": "The Lighthouse of Alexandria (Pharos) stood at the entrance to Alexandria's harbour."
+  },
+  {
+    "id": "h05",
+    "top": "History",
+    "dif": "Hard",
+    "txt": "The Peace of Westphalia in 1648 ended which major European conflict?",
+    "opt": ["The Hundred Years War", "The Thirty Years War", "The War of Spanish Succession", "The Seven Years War"],
+    "ans": 1,
+    "why": "The Peace of Westphalia (1648) ended the Thirty Years War and reshaped European sovereignty."
+  },
+  {
+    "id": "g01",
+    "top": "Geography",
+    "dif": "Easy",
+    "txt": "What is the longest river in the world?",
+    "opt": ["Amazon", "Yangtze", "Mississippi", "Nile"],
+    "ans": 3,
+    "why": "The Nile River at approximately 6,650 km is the longest river in the world."
+  },
+  {
+    "id": "g02",
+    "top": "Geography",
+    "dif": "Easy",
+    "txt": "Which country has the largest land area in the world?",
+    "opt": ["Canada", "China", "Russia", "United States"],
+    "ans": 2,
+    "why": "Russia covers approximately 17.1 million square kilometres, making it the largest country by area."
+  },
+  {
+    "id": "g03",
+    "top": "Geography",
+    "dif": "Medium",
+    "txt": "Which ocean is the deepest in the world?",
+    "opt": ["Atlantic Ocean", "Indian Ocean", "Arctic Ocean", "Pacific Ocean"],
+    "ans": 3,
+    "why": "The Pacific Ocean contains the Mariana Trench, the deepest point on Earth at approximately 11,034 m."
+  },
+  {
+    "id": "g04",
+    "top": "Geography",
+    "dif": "Medium",
+    "txt": "The Strait of Malacca connects which two bodies of water?",
+    "opt": ["Red Sea and Arabian Sea", "Andaman Sea and South China Sea", "Bay of Bengal and Java Sea", "Indian Ocean and Pacific Ocean"],
+    "ans": 1,
+    "why": "The Strait of Malacca connects the Andaman Sea (Indian Ocean) to the South China Sea (Pacific Ocean)."
+  },
+  {
+    "id": "g05",
+    "top": "Geography",
+    "dif": "Hard",
+    "txt": "Which African country has the most UNESCO World Heritage Sites?",
+    "opt": ["Egypt", "Morocco", "Ethiopia", "South Africa"],
+    "ans": 0,
+    "why": "Egypt leads African nations with 7 UNESCO World Heritage Sites, including Giza and Abu Simbel."
+  }
+]
