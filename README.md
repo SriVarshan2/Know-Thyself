@@ -6,7 +6,7 @@
 
 ## Section 1 — What It Is
 
-Most quiz apps only tell you whether you were right or wrong. **Know Thyself** measures two things simultaneously: your **knowledge accuracy** (how often you are correct) and your **calibration accuracy** (how well your confidence predicts your correctness). After answering 15 questions across Science, History, and Geography, you receive a **Learner Profile** that reveals the gap between what you know and what you *think* you know.
+Most quiz apps only tell you whether you were right or wrong. **Know Thyself** measures two things simultaneously: your **knowledge accuracy** (how often you are correct) and your **calibration accuracy** (how well your confidence predicts your correctness). After answering 15 questions across Science, History,and Geography, you receive a **Learner Profile** that reveals the gap between what you know and what you *think* you know.
 
 ---
 
